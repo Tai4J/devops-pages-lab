@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     outputs:
-      expected: ${{ github.sha }}
+      expected: ${{ github.sha }}-${{ github.run_id }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,9 +30,9 @@ jobs:
       - name: Write version.txt
         run: |
           if [ "${{ inputs.simulate_stale }}" = "true" ]; then
-            git rev-parse HEAD~1 > version.txt   # deliberately stamp an OLD version
+            echo "$(git rev-parse HEAD~1)-old" > version.txt   # deliberately stamp an OLD version
           else
-            echo "${{ github.sha }}" > version.txt
+            echo "${{ github.sha }}-${{ github.run_id }}" > version.txt
           fi
           echo "version.txt = $(cat version.txt)"
       - uses: actions/configure-pages@v5
