@@ -4,14 +4,14 @@ NTUST Information Management · DevOps Assignment 7
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🔔 Watching [Tai4J/birthday](https://github.com/Tai4J/birthday)
-2. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/645db5dcdf5e53f9aadb0cb38015d75693f71977)
-3. 🗣 Commented on PR #6 in [Tai4J/devsecops-a9](https://github.com/Tai4J/devsecops-a9/issues/6#issuecomment-6790427771)
-4. ❌ Closed PR #7 in [Tai4J/A9](https://github.com/Tai4J/A9/pull/7)
-5. 📥 Opened PR #7 in [Tai4J/A9](https://github.com/Tai4J/A9/pull/7)
-6. 🗣 Commented on PR #2 in [Tai4J/A9](https://github.com/Tai4J/A9/issues/2#issuecomment-6791816893)
-7. ❌ Closed PR #6 in [Tai4J/devsecops-a9](https://github.com/Tai4J/devsecops-a9/pull/6)
-8. 🗣 Commented on PR #6 in [Tai4J/devsecops-a9](https://github.com/Tai4J/devsecops-a9/issues/6#issuecomment-6790562394)
-9. Added [StephenChiang0115/AI-Extention-Project](https://github.com/StephenChiang0115/AI-Extention-Project)
-10. 📝 Committed to main in [Tai4J/devops-pages-lab](https://github.com/Tai4J/devops-pages-lab/commit/8ef3cb0cbbe76e770403db00a198290505455392)
+1. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/857abdfeb0f6778ac042922397acf036ccb580cb)
+2. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/1088e800edf72a00a0cba9e47c2d27d22fa91111)
+3. 📝 Committed to main in [Tai4J/devsecops-a9](https://github.com/Tai4J/devsecops-a9/commit/dbd7e95ade97497818ce535fee260999e1388651)
+4. 🎉 Created a new branch main in [Tai4J/devsecops-a9](https://github.com/Tai4J/devsecops-a9/tree/main)
+5. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/96d5d8f5221a39edc6828c74d715e4a5dee15328)
+6. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/22bff63948bbd946c4378a035865a88db612bf10)
+7. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/d8575c92e74a74b3284fd559cd8615ad261ad0c8)
+8. 🎉 Created a new branch main in [Tai4J/birthday](https://github.com/Tai4J/birthday/tree/main)
+9. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/3cdebe6c20b72dd95bca2e5455567162001d99f1)
+10. 📝 Committed to main in [Tai4J/birthday](https://github.com/Tai4J/birthday/commit/7d5db2c8acb1992dcd1e62ca43be3d961381d4df)
 <!--END_SECTION:activity-->
